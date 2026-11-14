@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "course": {
+    "id": "calc2-sections-7-1-to-7-4",
+    "title": "Calculus II \u2014 Integration Techniques",
+    "shortName": "CALC2"
+  },
+  "units": [
+    {
+      "order": 1,
+      "title": "Integration by Parts"
+    },
+    {
+      "order": 2,
+      "title": "Trigonometric Integrals"
+    },
+    {
+      "order": 3,
+      "title": "Trigonometric Substitution"
+    },
+    {
+      "order": 4,
+      "title": "Partial Fractions"
+    }
+  ],
+  "files": [
+    {
+      "path": "lecture notes/7.1_Integration_by_Parts.pdf",
+      "title": "Section 7.1 \u2014 Integration by Parts",
+      "mime": "application/pdf",
+      "kind": "lecture_notes",
+      "unitOrder": 1,
+      "lectureLabel": "Section 7.1"
+    },
+    {
+      "path": "worksheets/Worksheet 7.1a - Integration By Parts.pdf",
+      "title": "Worksheet 7.1a",
+      "mime": "application/pdf",
+      "kind": "worksheet",
+      "unitOrder": 1
+    },
+    {
+      "path": "lecture notes/7.2_Trigonometric_Integrals.pdf",
+      "title": "Section 7.2 \u2014 Trigonometric Integrals",
+      "mime": "application/pdf",
+      "kind": "lecture_notes",
+      "unitOrder": 2,
+      "lectureLabel": "Section 7.2"
+    },
+    {
+      "path": "worksheets/Worksheet 7.2 - Trigonometric Integrals (1).pdf",
+      "title": "Worksheet 7.2",
+      "mime": "application/pdf",
+      "kind": "worksheet",
+      "unitOrder": 2
+    },
+    {
+      "path": "lecture notes/7.3_Trigonometric_Substitution.pdf",
+      "title": "Section 7.3 \u2014 Trigonometric Substitution",
+      "mime": "application/pdf",
+      "kind": "lecture_notes",
+      "unitOrder": 3,
+      "lectureLabel": "Section 7.3"
+    },
+    {
+      "path": "worksheets/Worksheet 7.3a - Trigonometric Substitution.pdf",
+      "title": "Worksheet 7.3a",
+      "mime": "application/pdf",
+      "kind": "worksheet",
+      "unitOrder": 3
+    },
+    {
+      "path": "lecture notes/7.4 annotated.pdf",
+      "title": "Section 7.4 \u2014 Partial Fractions",
+      "mime": "application/pdf",
+      "kind": "lecture_notes",
+      "unitOrder": 4,
+      "lectureLabel": "Section 7.4"
+    },
+    {
+      "path": "worksheets/Worksheet 7.4a - Integration of Rational Functions by Partial Fractions.pdf",
+      "title": "Worksheet 7.4a",
+      "mime": "application/pdf",
+      "kind": "worksheet",
+      "unitOrder": 4
+    }
+  ],
+  "assignments": [
+    {
+      "id": "ws-7-1",
+      "title": "Worksheet 7.1a",
+      "unitOrder": 1,
+      "filePaths": [
+        "worksheets/Worksheet 7.1a - Integration By Parts.pdf"
+      ]
+    },
+    {
+      "id": "ws-7-2",
+      "title": "Worksheet 7.2",
+      "unitOrder": 2,
+      "filePaths": [
+        "worksheets/Worksheet 7.2 - Trigonometric Integrals (1).pdf"
+      ]
+    },
+    {
+      "id": "ws-7-3",
+      "title": "Worksheet 7.3a",
+      "unitOrder": 3,
+      "filePaths": [
+        "worksheets/Worksheet 7.3a - Trigonometric Substitution.pdf"
+      ]
+    },
+    {
+      "id": "ws-7-4",
+      "title": "Worksheet 7.4a",
+      "unitOrder": 4,
+      "filePaths": [
+        "worksheets/Worksheet 7.4a - Integration of Rational Functions by Partial Fractions.pdf"
+      ]
+    }
+  ]
+}
